@@ -1,0 +1,9 @@
+[submodule "TESTE"]
+	path = TESTE
+	url = git@github.com:diogofraga/TESTE.git
+[submodule "MapaDigital"]
+	path = MapaDigital
+	url = git@github.com:diogofraga/MapaDigital.git
+[submodule "fenomenal"]
+	path = fenomenal
+	url = git@github.com:diogofraga/fenomenal.git
